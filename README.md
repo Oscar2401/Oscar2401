@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Hola! Este es un nuevo repositorio.
+
+![Screenshot](screenshot.png)
