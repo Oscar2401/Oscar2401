@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 <!--
 **Oscar2401/Oscar2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola! Este es un nuevo repositorio 🔭.
+### Hola! Este es un nuevo repositorio 🔭.
 
 ![Screenshot](Messier77.jpg)
