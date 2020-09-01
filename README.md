@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Hola! Este es un nuevo repositorio 🔭.
 
-![Screenshot](Messier77.jpg)
+![Imagen](https://github.com/Oscar2401/Oscar2401/blob/master/Messier77.jpg)
