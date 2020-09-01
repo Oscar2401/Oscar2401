@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola! Este es un nuevo repositorio.
+Hola! Este es un nuevo repositorio 🔭.
 
-![Screenshot](screenshot.png)
+![Screenshot](Messier77.jpg)
