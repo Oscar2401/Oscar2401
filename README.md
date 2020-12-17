@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 Trabajo sobre Astronomía y análisis de datos.
 
-![Imagen](https://github.com/Oscar2401/Oscar2401/blob/master/Messier77.jpg)
+![Imagen|512x397,50%](https://github.com/Oscar2401/Oscar2401/blob/master/Messier77.jpg)
