@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hola! Este es mi nuevo repositorio 🔭.
+### Hola! Este es mi repositorio 🔭.
+
+Trabajo sobre Astronomía y análisis de datos.
 
 ![Imagen](https://github.com/Oscar2401/Oscar2401/blob/master/Messier77.jpg)
