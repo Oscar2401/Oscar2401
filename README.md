@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Holaaa! Este es mi repositorio 🔭.
+### ¡Hola! 🔭.
 
-<img src="Messier77.jpg" alt="drawing" width="200"/>
+
